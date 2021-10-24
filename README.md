@@ -2,7 +2,6 @@
 ## Mentoría DiploDatos 2021
 
 ### Integrantes: 
-- Mariano Llanos
 - Gabriel Crisnejo
 - Gastón Valvassori
 
