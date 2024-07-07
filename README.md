@@ -1,9 +1,12 @@
-# Predecir próxima compra de un usuario
-## Mentoría DiploDatos 2021
+# Recomendation System using Machine Learning
 
-### Integrantes: 
+Predict next purchase of a Mercado Libre user based on his activity history
+using Natural Language Processing (gensim’s word2vec). In agreement with
+required final project of Data Science 1-year course.
+
+### Members: 
 - Gabriel Crisnejo
 - Gastón Valvassori
 
-### Mentor: 
+### Advisor: 
 - Bruno Marengo
